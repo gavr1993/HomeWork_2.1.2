@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AddressSpin</string>
+    <string name="showAddress">Показать адрес</string>
+</resources>
